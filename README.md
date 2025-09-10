@@ -1,2 +1,2 @@
-# Paralelizaci-nmultiplicaci-nmatrices
+# Paralelizacionmultiplicacionmatrices
 Actividad 2
